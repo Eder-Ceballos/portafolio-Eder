@@ -1,0 +1,1 @@
+export const Perfil_url="https://www.dropbox.com/scl/fi/bulcvt8f44q5z8osno19y/home.jpg?rlkey=egrw54qpghwj3qaqf9dr24ha4&dl=1"
